@@ -1,0 +1,1 @@
+Infralib is a new IR decoder/encoder library for embedded systems.
